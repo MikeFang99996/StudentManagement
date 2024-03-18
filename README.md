@@ -29,6 +29,8 @@ Instruction
 
 - Open StudentManagement folder using IntelliJ, open StudentMgmt.java.
 
+- Change the username, password and port number in line 24-26 to yours.
+
 - In main function, create a new instance of StudentMgmt with the database's port number. The code for creating StudentMgmt is given in line 136, replace 
   the parameter with your database's port number.
 
